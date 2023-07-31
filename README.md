@@ -1,8 +1,8 @@
 ### Olá, meu nome é Israel Oliveira 👋
 
-- 🔭 Estudando JavaScript - FullStack
+- 🔭 Desenvolvedor Mobile - Flutter/Java
 - 📫 How to reach me: israeloliveira.dev@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <br>
 <div align="center">
