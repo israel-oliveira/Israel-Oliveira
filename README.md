@@ -1,19 +1,9 @@
 ### Olá, meu nome é Israel Oliveira 👋
 
-- 🔭 Desenvolvedor Mobile - Flutter/Java
+- 🔭 Desenvolvedor Mobile - 🚀Flutter/Dart | ☕Java
 - 📫 How to reach me: israeloliveira.dev@gmail.com
 
 
-<br>
-<div align="center">
-  <a href="https://github.com/Israel-Oliveira">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Israel-Oliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Oliveira&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
-  
-  
-  
 
   
   <!--
